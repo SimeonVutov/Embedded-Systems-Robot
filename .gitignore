@@ -2,3 +2,5 @@ build/
 *.uf2
 *.o
 *.elf
+
+compile_commands.json
